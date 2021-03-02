@@ -1,7 +1,7 @@
 ## Hello world, `atlasfoo` here! 👋
 ### I'm from Nicaragua, Central America
 ### Systems Engineer Student actually working as Jr. Software Developer
-### :computer: | :art: | :piano:
+### :computer: | :art: | 🎹
 ### Ours is the code that will pierce the heavens! 🚀
 ### Coding for liberty and to create helpful solutions for everyone, to have the best of the tech that means the maxim of the human progress 👨‍💻
 
