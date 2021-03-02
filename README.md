@@ -11,7 +11,7 @@
 - 📫 How to reach me: jf_mejiar547@live.com | atlasfoo@brevetech.com
 - ⚡ Fun fact: I'm a medium level weeb :sushi:
 
-### Proudly [Brevetech](https://brevetech.com) Founder ![Breve](https://i.imgur.com/47Qcap1.png)
+### ![Breve](https://i.imgur.com/47Qcap1.png) Proudly [Brevetech](https://brevetech.com) Founder
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atlasfoo&show_icons=true&theme=dark)]
 
