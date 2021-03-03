@@ -11,9 +11,9 @@
 - 📫 How to reach me: jf_mejiar547@live.com | atlasfoo@brevetech.com
 - ⚡ Fun fact: I'm a medium level weeb :sushi:
 
-### ![Breve](https://i.imgur.com/47Qcap1.png) Proudly [Brevetech](http://brevetech.com) Founder
+### ![Breve](https://i.imgur.com/Tlryf4K.png) Proudly [Brevetech](http://brevetech.com) Founder
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atlasfoo&show_icons=true&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atlasfoo&show_icons=true&theme=dark)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atlasfoo&show_icons=true&theme=radical)
 
