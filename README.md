@@ -13,11 +13,11 @@
 
 ### ![Breve](https://i.imgur.com/Tlryf4K.png) Proudly [Brevetech](http://brevetech.com) Founder
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=atlasfoo&show_icons=true&theme=merko)
+![Github stats](https://github-readme-stats.vercel.app/api?username=atlasfoo&show_icons=true&theme=merko&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atlasfoo&show_icons=true&theme=merko&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atlasfoo&show_icons=true&theme=merko&langs_count=8&layout=compact&hide=html,css)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=atlasfoo&theme=merko)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=atlasfoo&theme=merko&layout=compact)
 
 <!--
 **atlasfoo/atlasfoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
