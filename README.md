@@ -1,23 +1,25 @@
 ## Hello world, `atlasfoo` here! 👋
-### I'm from Nicaragua, Central America
-### Systems Engineer Student actually working as Jr. Software Developer
+### I'm from Nicaragua 🇳🇮, Central America
+### Systems Engineer actually working as Solutions Architect
 ### :computer: | :art: | 🎹
 ### Ours is the code that will pierce the heavens! 🚀
 ### Coding for liberty and to create helpful solutions for everyone, to have the best of the tech that means the maxim of the human progress 👨‍💻
 
-- 🔭 I’m currently working on various API and Websites
-- 🌱 I’m currently learning Web Full Stack (JS, .NET, PHP, Python, Java)
-- 👯 I’m looking to collaborate on open source projects for web utilities
+- 🔭 Solutions Architect in a regional financial enterprise. Fullstack cloud developer.
+- 🌱 I’m currently mastering cloud and project lead capabilities. Heading to master frontend and mobile development.
+- 👯 I’m looking to collaborate on open source projects at any scope
+- 🤔 I’m looking for help with mobile applications
+- 💬 Ask me about cloud development and event based architecture 🙃
 - 📫 How to reach me: jf_mejiar547@live.com | atlasfoo@brevetech.com
 - ⚡ Fun fact: I'm a medium level weeb :sushi:
 
-### ![Breve](https://i.imgur.com/Tlryf4K.png) Proudly [Brevetech](http://brevetech.com) Founder
+### ![Breve](https://i.imgur.com/Tlryf4K.png) Proudly [brevetech](https://github.com/brevetech) Founder
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=atlasfoo&show_icons=true&theme=merko&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=atlasfoo&show_icons=true&theme=radical&count_private=true&show=reviews,prs_merged_percentage)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atlasfoo&show_icons=true&theme=merko&langs_count=8&layout=compact&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atlasfoo&show_icons=true&theme=radical&langs_count=8&layout=compact&hide=html,css)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=atlasfoo&theme=merko)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=atlasfoo&theme=radical)
 
 <!--
 **atlasfoo/atlasfoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
