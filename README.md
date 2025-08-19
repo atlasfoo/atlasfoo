@@ -6,14 +6,12 @@
 ### Coding for liberty and to create helpful solutions for everyone, to have the best of the tech that means the maxim of the human progress 👨‍💻
 
 - 🔭 Solutions Architect in a regional financial enterprise. Fullstack cloud developer.
-- 🌱 I’m currently mastering cloud and project lead capabilities. Heading to master frontend and mobile development.
+- 🌱 I’m currently mastering cloud and project lead capabilities. Heading to improve frontend and mobile development.
 - 👯 I’m looking to collaborate on open source projects at any scope
-- 🤔 I’m looking for help with mobile applications
+- 🤔 I’m looking for help with mobile applications with React Native
 - 💬 Ask me about cloud development and event based architecture 🙃
-- 📫 How to reach me: jf_mejiar547@live.com | atlasfoo@brevetech.com
+- 📫 How to reach me: iscomejia15@outlook.com | atlasfoo@brevetech.com
 - ⚡ Fun fact: I'm a medium level weeb :sushi:
-
-### ![Breve](https://i.imgur.com/Tlryf4K.png) Proudly [brevetech](https://github.com/brevetech) Founder
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=atlasfoo&show_icons=true&theme=radical&count_private=true&show=reviews,prs_merged_percentage)
 
